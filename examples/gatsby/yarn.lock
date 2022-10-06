@@ -697,12 +697,12 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@fullpage/react-fullpage@^0.1.18":
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/@fullpage/react-fullpage/-/react-fullpage-0.1.18.tgz#cdc26ba731d38824e0d234cd2e1153b68bba7786"
+"@fullpage/react-fullpage@^0.1.19":
+  version "0.1.28"
+  resolved "https://registry.yarnpkg.com/@fullpage/react-fullpage/-/react-fullpage-0.1.28.tgz#3e9bc6bee57438a7b47d49b7209e1910631499ae"
   dependencies:
     "@babel/polyfill" "^7.2.5"
-    fullpage.js "^3.0.9"
+    fullpage.js "^4.0.11"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -2609,8 +2609,8 @@ css-url-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/css-url-regex/-/css-url-regex-1.1.0.tgz#83834230cc9f74c457de59eebd1543feeb83b7ec"
 
 css-what@2.1:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/css-what/-/css-what-2.1.0.tgz#9467d032c38cfaefb9f2d79501253062f87fa1bd"
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/css-what/-/css-what-2.1.3.tgz#a6d7604573365fe74686c3f311c56513d88285f2"
 
 cssesc@^0.1.0:
   version "0.1.0"
@@ -3850,9 +3850,9 @@ fsevents@^1.0.0, fsevents@^1.2.2:
     nan "^2.9.2"
     node-pre-gyp "^0.10.0"
 
-fullpage.js@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-3.0.9.tgz#fc7dba41d521f020a51e9c00fb0fee0d2e11d552"
+fullpage.js@^4.0.11:
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-4.0.11.tgz#a6679e1b66d55c5ca718f8b0fc8864a650a9145b"
 
 function-bind@^1.1.0, function-bind@^1.1.1:
   version "1.1.1"
