@@ -697,12 +697,12 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@fullpage/react-fullpage@^0.1.18":
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/@fullpage/react-fullpage/-/react-fullpage-0.1.18.tgz#cdc26ba731d38824e0d234cd2e1153b68bba7786"
+"@fullpage/react-fullpage@^0.1.19":
+  version "0.1.31"
+  resolved "https://registry.yarnpkg.com/@fullpage/react-fullpage/-/react-fullpage-0.1.31.tgz#98a73e3572791699a661effa96ea4f9878200e73"
   dependencies:
     "@babel/polyfill" "^7.2.5"
-    fullpage.js "^3.0.9"
+    fullpage.js "^4.0.15"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -2745,8 +2745,8 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@^1.0.1:
   version "1.0.1"
@@ -3850,9 +3850,9 @@ fsevents@^1.0.0, fsevents@^1.2.2:
     nan "^2.9.2"
     node-pre-gyp "^0.10.0"
 
-fullpage.js@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-3.0.9.tgz#fc7dba41d521f020a51e9c00fb0fee0d2e11d552"
+fullpage.js@^4.0.15:
+  version "4.0.15"
+  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-4.0.15.tgz#dee9ba9b658bc42a35f794ae2297c492d7c7bb2c"
 
 function-bind@^1.1.0, function-bind@^1.1.1:
   version "1.1.1"
